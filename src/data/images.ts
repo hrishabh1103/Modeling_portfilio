@@ -126,7 +126,7 @@ export const PORTFOLIO_IMAGES: PortfolioImage[] = [
   },
   {
     id: 'gala-red-jacket',
-    src: '/images/gala-red-jacket.jpg',
+    src: '/images/cruiser-bike-night.jpg',
     alt: 'Hrishabh Gupta in rose pink jacket and sunglasses at evening event',
     category: 'lookbook',
     orientation: 'portrait',
