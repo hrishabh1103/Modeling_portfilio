@@ -52,6 +52,6 @@ npm run build
 
 - **Direct Phone**: [+91 9752849496](tel:+919752849496)
 - **Email**: [hrishabh1104@gmail.com](mailto:hrishabh1104@gmail.com)
-- **Instagram**: [@usrtrulyhrishabh](https://www.instagram.com/usrtrulyhrishabh/)
+- **Instagram**: [@urstrulyhrishabh](https://www.instagram.com/urstrulyhrishabh/?hl=en)
 - **LinkedIn**: [hrishabh1103](https://www.linkedin.com/in/hrishabh1103/)
 - **Portfolio App**: [hrishabhguptamodeling.vercel.app](https://hrishabhguptamodeling.vercel.app/)
